@@ -1,0 +1,75 @@
+[
+  {
+    "title": "html5",
+    "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+  },
+  {
+    "title": "css3",
+    "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+  },
+  {
+    "title": "bootstrap",
+    "img": "https://res.cloudinary.com/daxkw95yw/image/upload/v1649028869/oskdvpzpcplwi0caigvp.png"
+  },
+  {
+    "title": "javascript",
+    "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+  },
+  {
+    "title": "typescript",
+    "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+  },
+  {
+    "title": "react",
+    "img": "https://res.cloudinary.com/daxkw95yw/image/upload/v1649028901/o53hlmcw86avaap88irf.png"
+  },
+
+  {
+    "title": "node",
+    "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+  },
+  {
+    "title": "express",
+    "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+  },
+  {
+    "title": "heroku",
+    "img": "https://res.cloudinary.com/daxkw95yw/image/upload/v1649029082/lv8lgagapt6taqqaoi1w.png"
+  },
+  {
+    "title": "firebase",
+    "img": "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+  },
+  {
+    "title": "PostgreSQL",
+    "img": "https://res.cloudinary.com/daxkw95yw/image/upload/v1649028575/rjehg4crpnikqogosiwg.png"
+  },
+  {
+    "title": "Sequelize",
+    "img": "https://res.cloudinary.com/daxkw95yw/image/upload/v1649029057/szfycdxus9u9pthzqf4a.png"
+  },
+  {
+    "title": "Linux",
+    "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+  },
+  {
+    "title": "git",
+    "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+  },
+  {
+    "title": "github",
+    "img": "https://res.cloudinary.com/daxkw95yw/image/upload/v1649029024/yrvejxjfjv08rxmvmigx.png"
+  },
+  {
+    "title": "npm",
+    "img": "https://res.cloudinary.com/daxkw95yw/image/upload/v1649029002/kn22ejnqxlldpfk5wdwx.png"
+  },
+  {
+    "title": "yarn",
+    "img": "https://res.cloudinary.com/daxkw95yw/image/upload/v1649028684/jstxpowqzknw4kwnknb4.png"
+  },
+  {
+    "title": "postman",
+    "img": "https://res.cloudinary.com/daxkw95yw/image/upload/v1649028973/rkzg1ts8qqxqtlevuw02.png"
+  }
+]

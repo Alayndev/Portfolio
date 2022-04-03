@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Rock Paper Scissors 2.0",
+
+    "description": "Rock Paper Scissors Online. REST API built with Node-Express. It uses Firebase RTDB and Firestore. Users can create rooms and invite other users to join them in that room. Each room has its own room code and score. The Frontend is a SPA that consumes the mentioned REST API and was developed without frameworks, but applies concepts of the current frameworks such as Components, State, Router, Architecture and so on. It was deployed with Heroku.",
+    "link": "https://dwf-m6-r-p-s-v2.herokuapp.com",
+    "code": "https://github.com/Alayndev/Piedra-Papel-o-Tijera-2.0"
+  },
+  {
+    "title": "Rock Paper Scissors 1.0",
+
+    "description": "Rock Paper Scissors Single-Player. This SPA was built without frameworks, using only TypeScript with Parcel. Allows the user to play against the computer, keeping the score. It was developed without frameworks, but applies concepts of the current frameworks such as Components, Router, Architecture and so on.",
+    "link": "https://alayndev.github.io/desafio-dwf-m5",
+    "code": "https://github.com/Alayndev/desafio-dwf-m5"
+  },
+  {
+    "title": "Lost Pet Finder 2.0",
+
+    "description": "This React project consumes the REST API described in Lost Pet Finder 1.0 in a different project. It provides the same functionalities as the first version and more. It has better performance and it was deployed with Firebase. It was built using TypeScript and React, Recoil, MUI, React Router DOM, CSS Modules, Mapbox, React and Custom Hooks and so much more. This project applies the architectural fundamentals of a big Web: State, Components, Pages, UI Components, Router, Hooks, etc.",
+    "link": "https://lost-pet-finder-app-2.web.app/",
+    "code": "https://github.com/Alayndev/Lost-pets-app-2.0"
+  },
+  {
+    "title": "Lost Pet Finder 1.0",
+
+    "description": "REST API developed with Node-Express. It uses PostgreSQL with Sequelize and Algolia DB, applying MVC. This Web App allows their users to report their lost pets. Users can describe and geolocate their pets in order to receive reports about them from other users. The Frontend is a SPA that consumes the mentioned REST API. It was built with TypeScript, Parcel, Bootstrap, Mapbox, and it applies concepts of the current frameworks. It was deployed with Heroku.",
+    "link": "https://lost-pet-finder-app.herokuapp.com",
+    "code": "https://github.com/Alayndev/lost-pets-app"
+  }
+]
