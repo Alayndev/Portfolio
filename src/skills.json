@@ -23,7 +23,6 @@
     "title": "react",
     "img": "https://res.cloudinary.com/daxkw95yw/image/upload/v1649028901/o53hlmcw86avaap88irf.png"
   },
-
   {
     "title": "node",
     "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
@@ -50,7 +49,7 @@
   },
   {
     "title": "Linux",
-    "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+    "img": "https://res.cloudinary.com/daxkw95yw/image/upload/v1649031016/tyo52l4p8ontxz1fkfvb.png"
   },
   {
     "title": "git",

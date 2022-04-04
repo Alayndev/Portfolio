@@ -18,8 +18,8 @@ export function PortfolioItem({ description, title, link, code }) {
           </div>
 
           {showHover ? (
-            <div className="subcontainer">
-              <div className="otro-cont">
+            <div className="hover-container">
+              <div className="hover-subcontainer">
                 <p> See the Demo and the Source Code of this project here.</p>
                 <div>
                   <a href={link} target="_blank" className="btn">

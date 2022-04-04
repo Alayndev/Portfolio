@@ -17,7 +17,7 @@ export function ContactSocialMedia() {
           className='fab fa-github'></a>
 
         <a
-          href='https://www.instagram.com/?hl=es'
+          href='https://www.instagram.com/alayn.saez/'
           target='_blank'
           rel='noreferrer'
           className='fab fa-instagram'></a>

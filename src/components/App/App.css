@@ -723,7 +723,7 @@ section {
   font-size: 14px;
 }
 
-.subcontainer {
+.hover-container {
   position: absolute;
   background-color: rgba(0, 0, 0, 0.8);
   height: 100%;
@@ -732,7 +732,7 @@ section {
   left: 0%;
 }
 
-.otro-cont {
+.hover-subcontainer {
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -746,4 +746,12 @@ section {
   display: grid;
   grid-template-rows: 80px 50px;
   gap: 15px;
+}
+
+#about-me__box {
+  padding: 2em 3em;
+}
+
+#about-me__paragraph {
+  font-size: 15px;
 }

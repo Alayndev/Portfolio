@@ -8,23 +8,28 @@ export function HomePage() {
     <>
       <Navbar />
 
-      <section className='home'>
-        <div className='image'>
-          <img src='https://res.cloudinary.com/daxkw95yw/image/upload/v1649029908/c8prko9e4ycpkud3gg9c.jpg' alt='personal-foto' />
+      <section className="home">
+        <div className="image">
+          <img
+            src="https://res.cloudinary.com/daxkw95yw/image/upload/v1649029908/c8prko9e4ycpkud3gg9c.jpg"
+            alt="personal-foto"
+          />
         </div>
 
-        <div className='content'>
+        <div className="content">
           <h3>Hi, I am Alayn Saez</h3>
-          <div className=''>
+          <div className="">
             <span>Full-stack developer</span>
           </div>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet porro
-            facere expedita ab atque a consectetur odit vel soluta itaque.
+            A passionate Full Stack Web Developer
+            having an experience of building Web applications with JavaScript / TypeScript /
+            Reactjs / Nodejs / Express and some other cool
+            libraries and frameworks.
           </p>
 
-          <Link to='/about' className='btn'>
-            about me <i className='fas fa-user'></i>
+          <Link to="/about" className="btn">
+            About me <i className="fas fa-user"></i>
           </Link>
         </div>
       </section>
