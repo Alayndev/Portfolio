@@ -11,7 +11,7 @@ export function HomePage() {
       <section className="home">
         <div className="image">
           <img
-            src="https://res.cloudinary.com/daxkw95yw/image/upload/v1649029908/c8prko9e4ycpkud3gg9c.jpg"
+            src="https://res.cloudinary.com/daxkw95yw/image/upload/v1650665040/n5kqzeskdcn1da5ffxvo.png"
             alt="personal-foto"
           />
         </div>
@@ -22,10 +22,9 @@ export function HomePage() {
             <span>Full-stack developer</span>
           </div>
           <p>
-            A passionate Full Stack Web Developer
-            having an experience of building Web applications with JavaScript / TypeScript /
-            Reactjs / Nodejs / Express and some other cool
-            libraries and frameworks.
+            A passionate Full Stack Web Developer having an experience of
+            building Web applications with JavaScript / TypeScript / Reactjs /
+            Nodejs / Express and some other cool libraries and frameworks.
           </p>
 
           <Link to="/about" className="btn">

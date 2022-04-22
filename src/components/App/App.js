@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import "./App.css";
 import { HomePage } from "../../pages/home/HomePage";
 import { AboutPage } from "../../pages/about/AboutPage";
@@ -8,20 +8,20 @@ import { ContactPage } from "../../pages/contact/ContactPage";
 
 function App() {
   return (
-    <div className='App'>
-      <BrowserRouter>
+    <div className="App">
+      <HashRouter>
         <Routes>
-          <Route path='/' element={<HomePage />}></Route>
+          <Route path="/" element={<HomePage />}></Route>
 
-          <Route path='/about' element={<AboutPage />}></Route>
+          <Route path="/about" element={<AboutPage />}></Route>
 
-          <Route path='/portfolio' element={<PortfolioPage />}></Route>
+          <Route path="/portfolio" element={<PortfolioPage />}></Route>
 
-          <Route path='/skills' element={<SkillsPage />}></Route>
+          <Route path="/skills" element={<SkillsPage />}></Route>
 
-          <Route path='/contact' element={<ContactPage />}></Route>
+          <Route path="/contact" element={<ContactPage />}></Route>
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
