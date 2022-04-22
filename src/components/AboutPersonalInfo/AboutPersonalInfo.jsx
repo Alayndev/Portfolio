@@ -14,7 +14,7 @@ export function AboutPersonalInfo() {
             <span>Age : </span> 21
           </h3>
           <h3>
-            <span>Email : </span> alaynsaez@gmail.com
+            <span>Email : </span> saezalayn@gmail.com
           </h3>
           <h3>
             <span>Address : </span> Buenos Aires, Argentina

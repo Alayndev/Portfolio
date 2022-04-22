@@ -18,7 +18,7 @@ export function ContactData() {
           <i className="fas fa-envelope"></i>
           <div className="info">
             <h3>Email :</h3>
-            <p>alaynsaez@gmail.com</p>
+            <p>saezalayn@gmail.com</p>
           </div>
         </div>
 
@@ -26,7 +26,7 @@ export function ContactData() {
           <i className="fab fa-linkedin"></i>
           <div className="info">
             <h3>Linkedin :</h3>
-            <p>linkedin.com/alayn-saez</p>
+            <p>linkedin.com/in/alayn-saez</p>
           </div>
         </div>
       </div>
