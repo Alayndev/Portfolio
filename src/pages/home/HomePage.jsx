@@ -9,13 +9,6 @@ export function HomePage() {
       <Navbar />
 
       <section className="home">
-        <div className="image">
-          <img
-            src="https://res.cloudinary.com/daxkw95yw/image/upload/v1650665040/n5kqzeskdcn1da5ffxvo.png"
-            alt="personal-foto"
-          />
-        </div>
-
         <div className="content">
           <h3>Hi, I am Alayn Saez</h3>
           <div className="">

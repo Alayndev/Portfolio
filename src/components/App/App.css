@@ -149,12 +149,6 @@ section {
   align-items: center;
 }
 
-@media (min-width: 769px) {
-  .home .content {
-    align-items: flex-start;
-  }
-}
-
 .home .content h3 {
   color: #fff;
   font-size: 4rem;
@@ -191,6 +185,7 @@ section {
   color: #aaa;
   padding: 1rem 0;
   line-height: 2;
+  text-align: center;
 }
 
 .about .row {
