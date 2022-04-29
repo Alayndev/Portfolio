@@ -36,7 +36,7 @@ export function AboutPersonalInfo() {
 
       <a
         className="btn"
-        href="https://docs.google.com/document/d/1KZVK9TVsOPD3A9M79RrSPAm8cpCx1BcioZd7CjT3a-0/edit?usp=sharing"
+        href="https://drive.google.com/file/d/10W7CJ-tJMgBi4ntfvNiUQbZR78JAtxSe/view?usp=sharing"
         target="_blank"
       >
         Download CV <i className="fas fa-download"></i>
