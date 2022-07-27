@@ -11,7 +11,7 @@ export function AboutPersonalInfo() {
             <span>Name : </span> Alayn Saez
           </h3>
           <h3>
-            <span>Age : </span> 21
+            <span>Age : </span> 22
           </h3>
           <h3>
             <span>Email : </span> saezalayn@gmail.com
@@ -36,8 +36,9 @@ export function AboutPersonalInfo() {
 
       <a
         className="btn"
-        href="https://drive.google.com/file/d/10W7CJ-tJMgBi4ntfvNiUQbZR78JAtxSe/view?usp=sharing"
+        href="https://drive.google.com/file/d/1T-B3tts3zrXrYaSh-258YzLvN2MLs1cf/view?usp=sharing"
         target="_blank"
+        rel="noreferrer"
       >
         Download CV <i className="fas fa-download"></i>
       </a>
