@@ -7,20 +7,21 @@ export function AboutParagraph() {
         <div id="about-me__box" className="box">
           <h3>Who am I?</h3>
           <p id="about-me__paragraph">
-            Hi! My name is Alayn Saez. I was born and raised in Buenos Aires,
-            Argentina. I’m a full stack web developer. I have been studying web
-            development over the last year and a half on my own and with online
-            courses. I study on my own as well as with courses on platforms such
-            as freeCodeCamp, Platzi, APX school and so on. Among the strengths I
-            have developed are my communication skills , my strong sense of
-            teamwork and mutual collaboration, my proactivity to learn and
-            upskill, etc. I consider myself a confident person who can face and
-            solve challenges effectively. I’m a person who is always trying to
-            learn something new and improve what I already know. I’m currently
-            taking a React Native course to upskill and I’m about to complete a
-            year full stack web development course on APX school. Therefore, I’m
-            looking to leverage the skills I gained throughout these years and
-            bring that expertise to collaborate in a project.
+            I am a Full Stack Web Developer willing to collaborate with my
+            knowledge in cutting-edge web projects. I have experience developing
+            web apps with JavaScript, TypeScript, HTML, CSS, React.Js, state
+            managers (Redux - Recoil), Next.Js, Node.Js, Express, API Rest,
+            Postman, among other technologies. I have developed web apps with
+            both SQL (PostgreSQL) and NoSQL (Firebase) databases, and with ORM
+            (Sequelize). My favorite OS is Linux, but I am also comfortable on
+            Windows. Among the strengths I have are my resourcefulness, my
+            dedication and commitment, my communication skills and my desire to
+            learn and improve. I am a person who is always trying to learn
+            something new and improve what I already know. That is what
+            motivates me and encourages me to keep progressing constantly. I am
+            currently working as a freelance Full Stack Web Developer,
+            developing with technologies such as Next.Js, React.Js, Node.Js,
+            Firebase, Tailwind CSS, among other technologies.
           </p>
         </div>
       </div>

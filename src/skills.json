@@ -1,17 +1,5 @@
 [
   {
-    "title": "html5",
-    "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-  },
-  {
-    "title": "css3",
-    "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-  },
-  {
-    "title": "bootstrap",
-    "img": "https://res.cloudinary.com/daxkw95yw/image/upload/v1649028869/oskdvpzpcplwi0caigvp.png"
-  },
-  {
     "title": "javascript",
     "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
   },
@@ -24,12 +12,44 @@
     "img": "https://res.cloudinary.com/daxkw95yw/image/upload/v1649028901/o53hlmcw86avaap88irf.png"
   },
   {
+    "title": "redux",
+    "img": "https://firebasestorage.googleapis.com/v0/b/lost-pet-finder-app-2.appspot.com/o/redux-removebg-preview.png?alt=media&token=047f701a-b37d-4eb1-846a-9af0a458ae4d"
+  },
+  {
+    "title": "next",
+    "img": "https://firebasestorage.googleapis.com/v0/b/lost-pet-finder-app-2.appspot.com/o/nextjs-white-logo.svg?alt=media&token=2a76bd50-c5fe-408b-9a58-21e24a3f231d"
+  },
+  {
+    "title": "html5",
+    "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+  },
+  {
+    "title": "css3",
+    "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+  },
+  {
+    "title": "tailwind",
+    "img": "https://firebasestorage.googleapis.com/v0/b/lost-pet-finder-app-2.appspot.com/o/Tailwind_CSS_Logo.svg-removebg-preview.png?alt=media&token=f35fbb8f-62fc-4a3e-bb83-50fee6f26850"
+  },
+  {
+    "title": "bootstrap",
+    "img": "https://res.cloudinary.com/daxkw95yw/image/upload/v1649028869/oskdvpzpcplwi0caigvp.png"
+  },
+  {
+    "title": "material UI",
+    "img": "https://firebasestorage.googleapis.com/v0/b/lost-pet-finder-app-2.appspot.com/o/Screenshot_from_2022-07-28_13-25-43-removebg-preview.png?alt=media&token=0f2e5179-166d-432b-a89d-4713b22e78e3"
+  },
+  {
     "title": "node",
     "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
   },
   {
     "title": "express",
     "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+  },
+  {
+    "title": "jest",
+    "img": "https://firebasestorage.googleapis.com/v0/b/lost-pet-finder-app-2.appspot.com/o/jest-logo-removebg-preview.png?alt=media&token=e31f86cf-28ef-4ee2-a54e-b0ccacbfe108"
   },
   {
     "title": "heroku",
